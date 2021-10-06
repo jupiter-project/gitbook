@@ -5,7 +5,7 @@
 ## Documentation
 
 * [Developer's Guide](documentation/untitled.md)
-* [Jupiter Reference Software API](documentation/jupiter-reference-software-api/README.md)
+* [Jupiter Reference Software](documentation/jupiter-reference-software-api/README.md)
   * [Overview](documentation/jupiter-reference-software-api/overview.md)
   * [Class Hierarchy](documentation/jupiter-reference-software-api/class-hierarchy.md)
   * [index-files](documentation/jupiter-reference-software-api/index-files/README.md)
