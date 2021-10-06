@@ -9,7 +9,7 @@
   * [Overview](documentation/jupiter-reference-software/overview.md)
   * [Class Hierarchy](documentation/jupiter-reference-software/class-hierarchy.md)
   * [index-files](documentation/jupiter-reference-software/index-files/README.md)
-    * [A-Index](documentation/jupiter-reference-software/index-files/a-index.md)
+    * [Index](documentation/jupiter-reference-software/index-files/a-index.md)
   * [How This API Document Is Organized](documentation/jupiter-reference-software/how-this-api-document-is-organized.md)
   * [All Classes](documentation/jupiter-reference-software/all-classes.md)
   * [nxt](documentation/jupiter-reference-software/nxt/README.md)
