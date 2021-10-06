@@ -2,7 +2,7 @@
 description: 'https://github.com/jupiter-project/metis-api'
 ---
 
-# Metis-api
+# metis-api
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
