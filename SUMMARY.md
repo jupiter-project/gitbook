@@ -43,6 +43,7 @@
     * [util](documentation/jupiter-reference-software/nxt/util/README.md)
       * [nxt.util](documentation/jupiter-reference-software/nxt/util/nxt.util.md)
     * [nxt Class Hierarchy](documentation/jupiter-reference-software/nxt/nxt-class-hierarchy.md)
+* [Jupiter API](documentation/jupiter-api.md)
 * [metis-api](documentation/metis-api.md)
 * [jupiter-node-sdk](documentation/jupiter-node-sdk.md)
 
