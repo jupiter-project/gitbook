@@ -4,3 +4,5 @@ Our main product is our L1 blockchain, Jupiter. Jupiter is the base platform nee
 
 Currently, our primary decentralized application is [Metis](https://getmetis.io), a decentralized messaging system that is double encrypted and requires no personally identifiable information \(PII\) to create an account.
 
+This documentation is available on [Github](https://github.com/jupiter-project/gitbook) as well.
+

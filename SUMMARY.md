@@ -5,6 +5,8 @@
 ## Documentation
 
 * [Developer's Guide](documentation/untitled.md)
+* [Metis-api](documentation/metis-api.md)
+* [jupiter-node-sdk](documentation/jupiter-node-sdk.md)
 
 ## How to guides
 
