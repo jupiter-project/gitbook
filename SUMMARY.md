@@ -8,9 +8,16 @@
 
 ## How to guides
 
-* [Untitled](how-to-guides/untitled.md)
+* [Install Jupiter](how-to-guides/install-jupiter/README.md)
+  * [Windows](how-to-guides/install-jupiter/windows.md)
+  * [Mac/Linux](how-to-guides/install-jupiter/mac-linux.md)
 
-## Products
+## FAQs
 
-* [Untitled](products/untitled.md)
+* [Metis](faqs/untitled/README.md)
+  * [Metis Container](faqs/untitled/metis-container.md)
+* [Leda](faqs/leda.md)
+* [iO](faqs/io.md)
+* [Europa](faqs/europa.md)
+* [Callisto](faqs/callisto.md)
 
