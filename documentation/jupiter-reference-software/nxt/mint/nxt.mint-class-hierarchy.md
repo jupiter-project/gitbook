@@ -6,7 +6,7 @@
 * [Package](nxt.mint.md)
 * Class
 * Tree
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../index-files/a-index.md)
 * [Help](../../how-this-api-document-is-organized.md)
 * [Prev](../http/nxt.http-class-hierarchy.md)
@@ -29,7 +29,7 @@ Package Hierarchies:
 * [Package](nxt.mint.md)
 * Class
 * Tree
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../index-files/a-index.md)
 * [Help](../../how-this-api-document-is-organized.md)
 * [Prev](../http/nxt.http-class-hierarchy.md)
@@ -37,4 +37,3 @@ Package Hierarchies:
 * [Frames](https://jpr4.gojupiter.tech/doc/index.html?nxt/mint/package-tree.html)
 * [No Frames](nxt.mint-class-hierarchy.md)
 * [All Classes](../../all-classes.md)
-

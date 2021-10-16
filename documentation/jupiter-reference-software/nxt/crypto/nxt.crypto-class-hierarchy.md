@@ -6,7 +6,7 @@
 * [Package](nxt.crypto.md)
 * Class
 * Tree
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../index-files/a-index.md)
 * [Help](../../how-this-api-document-is-organized.md)
 * [Prev](../addons/nxt.addons-class-hierarchy.md)
@@ -33,7 +33,7 @@ Package Hierarchies:
 ### Enum Hierarchy
 
 * java.lang.Object
-  * java.lang.Enum \(implements java.lang.Comparable, java.io.Serializable\)
+  * java.lang.Enum (implements java.lang.Comparable, java.io.Serializable)
     * nxt.crypto.[HashFunction](https://jpr4.gojupiter.tech/doc/nxt/crypto/HashFunction.html)
 
 [Skip navigation links](nxt.crypto-class-hierarchy.md#skip.navbar.bottom)
@@ -42,7 +42,7 @@ Package Hierarchies:
 * [Package](nxt.crypto.md)
 * Class
 * Tree
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../index-files/a-index.md)
 * [Help](../../how-this-api-document-is-organized.md)
 * [Prev](../addons/nxt.addons-class-hierarchy.md)
@@ -50,4 +50,3 @@ Package Hierarchies:
 * [Frames](https://jpr4.gojupiter.tech/doc/index.html?nxt/crypto/package-tree.html)
 * [No Frames](nxt.crypto-class-hierarchy.md)
 * [All Classes](../../all-classes.md)
-

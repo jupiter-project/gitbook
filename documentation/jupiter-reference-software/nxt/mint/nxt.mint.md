@@ -6,7 +6,7 @@
 * Package
 * Class
 * [Tree](nxt.mint-class-hierarchy.md)
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../index-files/a-index.md)
 * [Help](../../how-this-api-document-is-organized.md)
 * [Prev Package](../http/nxt.http.md)
@@ -17,11 +17,11 @@
 
 ## Package nxt.mint
 
-* | Class Summary |  |
-  | :--- | :--- |
-  |   |  |
-  | Class | Description |
-  | [MintWorker](https://jpr4.gojupiter.tech/doc/nxt/mint/MintWorker.html) |  |
+* | Class Summary                                                          |             |
+  | ---------------------------------------------------------------------- | ----------- |
+  |                                                                        |             |
+  | Class                                                                  | Description |
+  | [MintWorker](https://jpr4.gojupiter.tech/doc/nxt/mint/MintWorker.html) |             |
 
 [Skip navigation links](nxt.mint.md#skip.navbar.bottom)
 
@@ -29,7 +29,7 @@
 * Package
 * Class
 * [Tree](nxt.mint-class-hierarchy.md)
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../index-files/a-index.md)
 * [Help](../../how-this-api-document-is-organized.md)
 * [Prev Package](../http/nxt.http.md)
@@ -37,4 +37,3 @@
 * [Frames](https://jpr4.gojupiter.tech/doc/index.html?nxt/mint/package-summary.html)
 * [No Frames](nxt.mint.md)
 * [All Classes](../../all-classes.md)
-

@@ -55,10 +55,9 @@
 
 ## FAQs
 
-* [Metis](faqs/untitled/README.md)
-  * [Metis Container](faqs/untitled/metis-container.md)
+* [Metis](faqs/metis/README.md)
+  * [Metis Container](faqs/metis/metis-container.md)
 * [Leda](faqs/leda.md)
 * [iO](faqs/io.md)
 * [Europa](faqs/europa.md)
 * [Callisto](faqs/callisto.md)
-

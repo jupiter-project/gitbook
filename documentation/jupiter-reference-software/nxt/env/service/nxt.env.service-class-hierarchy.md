@@ -6,7 +6,7 @@
 * [Package](nxt.env.service.md)
 * Class
 * Tree
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../../index-files/a-index.md)
 * [Help](../../../how-this-api-document-is-organized.md)
 * [Prev](../nxt.env-class-hierarchy.md)
@@ -24,7 +24,7 @@ Package Hierarchies:
 ### Class Hierarchy
 
 * java.lang.Object
-  * nxt.env.service.[NxtService\_ServiceManagement](https://jpr4.gojupiter.tech/doc/nxt/env/service/NxtService_ServiceManagement.html)
+  * nxt.env.service.[NxtService_ServiceManagement](https://jpr4.gojupiter.tech/doc/nxt/env/service/NxtService_ServiceManagement.html)
 
 [Skip navigation links](nxt.env.service-class-hierarchy.md#skip.navbar.bottom)
 
@@ -32,7 +32,7 @@ Package Hierarchies:
 * [Package](nxt.env.service.md)
 * Class
 * Tree
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../../index-files/a-index.md)
 * [Help](../../../how-this-api-document-is-organized.md)
 * [Prev](../nxt.env-class-hierarchy.md)
@@ -40,4 +40,3 @@ Package Hierarchies:
 * [Frames](https://jpr4.gojupiter.tech/doc/index.html?nxt/env/service/package-tree.html)
 * [No Frames](nxt.env.service-class-hierarchy.md)
 * [All Classes](../../../all-classes.md)
-

@@ -6,7 +6,7 @@
 * [Package](nxt.http.md)
 * Class
 * Tree
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../index-files/a-index.md)
 * [Help](../../how-this-api-document-is-organized.md)
 * [Prev](../env/service/nxt.env.service-class-hierarchy.md)
@@ -25,7 +25,7 @@ Package Hierarchies:
 
 * java.lang.Object
   * nxt.http.[API](https://jpr4.gojupiter.tech/doc/nxt/http/API.html)
-  * nxt.http.[API.XFrameOptionsFilter](https://jpr4.gojupiter.tech/doc/nxt/http/API.XFrameOptionsFilter.html) \(implements javax.servlet.Filter\)
+  * nxt.http.[API.XFrameOptionsFilter](https://jpr4.gojupiter.tech/doc/nxt/http/API.XFrameOptionsFilter.html) (implements javax.servlet.Filter)
   * nxt.http.[APIProxy](https://jpr4.gojupiter.tech/doc/nxt/http/APIProxy.html)
   * nxt.http.[APIServlet.APIRequestHandler](https://jpr4.gojupiter.tech/doc/nxt/http/APIServlet.APIRequestHandler.html)
     * nxt.http.[AddMetis](https://jpr4.gojupiter.tech/doc/nxt/http/AddMetis.html)
@@ -292,7 +292,7 @@ Package Hierarchies:
     * nxt.http.[UploadTaggedData](https://jpr4.gojupiter.tech/doc/nxt/http/UploadTaggedData.html)
     * nxt.http.[VerifyPrunableMessage](https://jpr4.gojupiter.tech/doc/nxt/http/VerifyPrunableMessage.html)
     * nxt.http.[VerifyTaggedData](https://jpr4.gojupiter.tech/doc/nxt/http/VerifyTaggedData.html)
-  * javax.servlet.GenericServlet \(implements java.io.Serializable, javax.servlet.Servlet, javax.servlet.ServletConfig\)
+  * javax.servlet.GenericServlet (implements java.io.Serializable, javax.servlet.Servlet, javax.servlet.ServletConfig)
     * javax.servlet.http.HttpServlet
       * org.eclipse.jetty.proxy.AbstractProxyServlet
         * org.eclipse.jetty.proxy.AsyncMiddleManServlet
@@ -307,7 +307,7 @@ Package Hierarchies:
   * nxt.http.[MetisServers](https://jpr4.gojupiter.tech/doc/nxt/http/MetisServers.html)
   * nxt.http.[ParameterParser](https://jpr4.gojupiter.tech/doc/nxt/http/ParameterParser.html)
   * nxt.http.[ParameterParser.FileData](https://jpr4.gojupiter.tech/doc/nxt/http/ParameterParser.FileData.html)
-  * java.lang.Throwable \(implements java.io.Serializable\)
+  * java.lang.Throwable (implements java.io.Serializable)
     * java.lang.Exception
       * nxt.[NxtException](https://jpr4.gojupiter.tech/doc/nxt/NxtException.html)
         * nxt.http.[ParameterException](https://jpr4.gojupiter.tech/doc/nxt/http/ParameterException.html)
@@ -315,7 +315,7 @@ Package Hierarchies:
 ### Enum Hierarchy
 
 * java.lang.Object
-  * java.lang.Enum \(implements java.lang.Comparable, java.io.Serializable\)
+  * java.lang.Enum (implements java.lang.Comparable, java.io.Serializable)
     * nxt.http.[MetisServers.Event](https://jpr4.gojupiter.tech/doc/nxt/http/MetisServers.Event.html)
     * nxt.http.[APITag](https://jpr4.gojupiter.tech/doc/nxt/http/APITag.html)
     * nxt.http.[APIEnum](https://jpr4.gojupiter.tech/doc/nxt/http/APIEnum.html)
@@ -326,7 +326,7 @@ Package Hierarchies:
 * [Package](nxt.http.md)
 * Class
 * Tree
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../index-files/a-index.md)
 * [Help](../../how-this-api-document-is-organized.md)
 * [Prev](../env/service/nxt.env.service-class-hierarchy.md)
@@ -334,4 +334,3 @@ Package Hierarchies:
 * [Frames](https://jpr4.gojupiter.tech/doc/index.html?nxt/http/package-tree.html)
 * [No Frames](nxt.http-class-hierarchy.md)
 * [All Classes](../../all-classes.md)
-

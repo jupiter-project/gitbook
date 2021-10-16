@@ -6,7 +6,7 @@
 * [Package](nxt.env.md)
 * Class
 * Tree
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../index-files/a-index.md)
 * [Help](../../how-this-api-document-is-organized.md)
 * [Prev](../db/nxt.db-class-hierarchy.md)
@@ -24,10 +24,10 @@ Package Hierarchies:
 ### Class Hierarchy
 
 * java.lang.Object
-  * nxt.env.[CommandLineMode](https://jpr4.gojupiter.tech/doc/nxt/env/CommandLineMode.html) \(implements nxt.env.[RuntimeMode](https://jpr4.gojupiter.tech/doc/nxt/env/RuntimeMode.html)\)
-    * nxt.env.[WindowsServiceMode](https://jpr4.gojupiter.tech/doc/nxt/env/WindowsServiceMode.html) \(implements nxt.env.[RuntimeMode](https://jpr4.gojupiter.tech/doc/nxt/env/RuntimeMode.html)\)
-  * nxt.env.[DefaultDirProvider](https://jpr4.gojupiter.tech/doc/nxt/env/DefaultDirProvider.html) \(implements nxt.env.[DirProvider](https://jpr4.gojupiter.tech/doc/nxt/env/DirProvider.html)\)
-  * nxt.env.[DesktopMode](https://jpr4.gojupiter.tech/doc/nxt/env/DesktopMode.html) \(implements nxt.env.[RuntimeMode](https://jpr4.gojupiter.tech/doc/nxt/env/RuntimeMode.html)\)
+  * nxt.env.[CommandLineMode](https://jpr4.gojupiter.tech/doc/nxt/env/CommandLineMode.html) (implements nxt.env.[RuntimeMode](https://jpr4.gojupiter.tech/doc/nxt/env/RuntimeMode.html))
+    * nxt.env.[WindowsServiceMode](https://jpr4.gojupiter.tech/doc/nxt/env/WindowsServiceMode.html) (implements nxt.env.[RuntimeMode](https://jpr4.gojupiter.tech/doc/nxt/env/RuntimeMode.html))
+  * nxt.env.[DefaultDirProvider](https://jpr4.gojupiter.tech/doc/nxt/env/DefaultDirProvider.html) (implements nxt.env.[DirProvider](https://jpr4.gojupiter.tech/doc/nxt/env/DirProvider.html))
+  * nxt.env.[DesktopMode](https://jpr4.gojupiter.tech/doc/nxt/env/DesktopMode.html) (implements nxt.env.[RuntimeMode](https://jpr4.gojupiter.tech/doc/nxt/env/RuntimeMode.html))
   * nxt.env.[DesktopSystemTray](https://jpr4.gojupiter.tech/doc/nxt/env/DesktopSystemTray.html)
   * nxt.env.[LookAndFeel](https://jpr4.gojupiter.tech/doc/nxt/env/LookAndFeel.html)
   * nxt.env.[RuntimeEnvironment](https://jpr4.gojupiter.tech/doc/nxt/env/RuntimeEnvironment.html)
@@ -44,7 +44,7 @@ Package Hierarchies:
 ### Enum Hierarchy
 
 * java.lang.Object
-  * java.lang.Enum \(implements java.lang.Comparable, java.io.Serializable\)
+  * java.lang.Enum (implements java.lang.Comparable, java.io.Serializable)
     * nxt.env.[ServerStatus](https://jpr4.gojupiter.tech/doc/nxt/env/ServerStatus.html)
 
 [Skip navigation links](nxt.env-class-hierarchy.md#skip.navbar.bottom)
@@ -53,7 +53,7 @@ Package Hierarchies:
 * [Package](nxt.env.md)
 * Class
 * Tree
-* [Deprecated]()
+* [Deprecated](broken-reference)
 * [Index](../../index-files/a-index.md)
 * [Help](../../how-this-api-document-is-organized.md)
 * [Prev](../db/nxt.db-class-hierarchy.md)
@@ -61,4 +61,3 @@ Package Hierarchies:
 * [Frames](https://jpr4.gojupiter.tech/doc/index.html?nxt/env/package-tree.html)
 * [No Frames](nxt.env-class-hierarchy.md)
 * [All Classes](../../all-classes.md)
-
