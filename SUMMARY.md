@@ -52,6 +52,7 @@
 * [Install Jupiter](how-to-guides/install-jupiter/README.md)
   * [Windows](how-to-guides/install-jupiter/windows.md)
   * [Mac/Linux](how-to-guides/install-jupiter/mac-linux.md)
+* [Staking on Jupiter](how-to-guides/staking-on-jupiter.md)
 
 ## FAQs
 
