@@ -6,23 +6,15 @@ description: Stake your JUP or bwJUP tokens on the Jupiter blockchain
 
 ### To bridge from ETH to the Jupiter mainnet:
 
-1. Purchase JUP on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8\&outputCurrency=ETH) or [KuCoin](https://www.kucoin.com/ucenter/signup?rcode=HH7M58). Ensure the [$JUP](https://etherscan.io/token/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8) are in your Metamask wallet.
+1. Purchase JUP on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8\&outputCurrency=ETH) or [KuCoin](https://www.kucoin.com/ucenter/signup?rcode=HH7M58). If you buy on Uniswap, send $JUP to KuCoin to bridge to mainnet.
 2. If you have Chrome or Brave browser, consider installing [Europa](https://chrome.google.com/webstore/detail/jupiter-europa/gafpmgjlgaocgmlggjbpjmpedlebgnej) to ease access to your Jupiter mainnet assets and coins. Create an account on the extension or [here](https://nodes.jup.io). The Jupiter mainnet addresses are formatted as this `JUP-T7WC-WHHT-T48V-3KZ5Z`.
-3. Go to [https://swap.jup.io](https://swap.jup.io) and connect both your Metamask and Europa extensions.&#x20;
-4. Ensure you select "ETH (ERC20)" and "JUP (MAINNET)" accordingly.&#x20;
-5. Enter the amount you want to swap from ERC20 to Jupiter Mainnet, click "Swap"
-6. Approve the transaction, minding the ETH gas fee. DO NOT SPEED THE TRANSACTION UP! If you do, the swap will not automatically complete.
-7. In about 5 minutes, you will have JUP in your Europa account. You can log into the wallet at https://nodes.jup.io and complete the following task to obtain $FORGE to earn rewards.![](<../.gitbook/assets/Screen Shot 2021-11-12 at 10.39.53 PM.png>)
+3. **KuCoin is our official network bridging partner. This is the -only- way you should move between the three Jupiter networks. The old swap.jup.io site is deprecated and offline.**&#x20;
+4. Ensure you select "ETH (ERC20)", BSC (BEP20), or "Jupiter (JUP)" accordingly. To buy $FORGE, you need MAINNET Jupiter.
+5. Paste in your Jupiter address.
+6. In a few minutes, you will have JUP in your Europa account. You can buy $FORGE in Europa or you can log into the wallet at [https://nodes.jup.io](https://nodes.jup.io) and complete the following task to obtain $FORGE to earn rewards.
+7. There is NO MEMO required for WITHDRAWS. You MUST add the memo to DEPOSIT from MAINNET to KuCoin!
 
-### To bridge from BSC to the Jupiter mainnet:
-
-1. Purchase bwJUP on [Pancakeswap](https://pancakeswap.finance/swap?outputCurrency=0x0231f91e02debd20345ae8ab7d71a41f8e140ce7) or [KuCoin](https://www.kucoin.com/ucenter/signup?rcode=HH7M58). Ensure the [$bwJUP](https://bscscan.com/token/0x0231f91e02debd20345ae8ab7d71a41f8e140ce7) are in your Metamask wallet.
-2. If you have Chrome or Brave browser, consider installing [Europa](https://chrome.google.com/webstore/detail/jupiter-europa/gafpmgjlgaocgmlggjbpjmpedlebgnej) to ease access to your Jupiter mainnet assets and coins. Create an account on the extension or [here](https://nodes.jup.io). The Jupiter mainnet addresses are formatted as this `JUP-T7WC-WHHT-T48V-3KZ5Z`.
-3. Go to [https://swap.jup.io](https://swap.jup.io) and connect both your Metamask and Europa extensions.&#x20;
-4. Ensure you select "BSC (BEP20)" and "JUP (MAINNET)" accordingly.&#x20;
-5. Enter the amount you want to swap from BEP20 to Jupiter Mainnet, click "Swap"
-6. Approve the transaction. DO NOT SPEED THE TRANSACTION UP! If you do, the swap will not automatically complete.
-7. In about 5 minutes, you will have JUP in your Europa account. You can log into the wallet at https://nodes.jup.io and complete the following task to obtain $FORGE to earn rewards.
+![](<../.gitbook/assets/Screen Shot 2022-01-24 at 8.44.08 AM.png>)
 
 ### Buy $FORGE on Jupiter
 
