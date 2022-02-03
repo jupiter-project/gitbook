@@ -6,7 +6,7 @@ Metis is a messaging application based on blockchain technology. Each message is
 
 ## How are messages encrypted in Metis?
 
-The messages are double-encrypted. First, by the blockchain protocol \(Curve25519 – same as Monero, Polkadot or Solana, as well as others\), which is decrypted with your passphrase \(12-word private key to access your account in the Jupiter network\) and second, a layer in the Metis application itself that communicates with the blockchain, with military grade encryption \(AES256-cbc\), decrypted with your encryption password in the application.
+The messages are double-encrypted. First, by the blockchain protocol (Curve25519 – same as Monero, Polkadot or Solana, as well as others), which is decrypted with your passphrase (12-word private key to access your account in the Jupiter network) and second, a layer in the Metis application itself that communicates with the blockchain, with military grade encryption (AES256-cbc), decrypted with your encryption password in the application.
 
 Logging into the Metis application takes both the passphrase and encryption password. You may set your login to use your mobile devices' built-in bio-metric feature to ease login and use.
 
@@ -14,13 +14,13 @@ Only people inside a channel can read the messages in that channel –and channe
 
 ## **Other apps also have different types of end-to-end encryption and sent messages have been accessed. What makes Metis different?**
 
-Metis is different by design. Other services are centralized and rely on one company or one infrastucture system to work. Metis is and does not. A government or a multinational like Facebook can dig into the servers, where your information is either stored unencrypted or transported by an unencrypted mechanism through their server stack and then decrypted. Services like Signal are 100% reliant on companies like Signal to fully work. You can't stand up your own Signal server and talk to **all** other Signal users. With Metis, you can!
+Metis is different by design. Other services are centralized and rely on one company or one infrastructure system to work. Metis is not and does not. A government or a multinational like Facebook can dig into the servers, where your information is either stored unencrypted or transported by an unencrypted mechanism through their server stack and then decrypted. Services like Signal are 100% reliant on companies like Signal to fully work. You can't stand up your own Signal server and talk to **all** other Signal users. With Metis, you can!
 
 What makes Metis different is how it encrypts the information first in the application, then sends it through an SSL-encrypted channel, and encrypts it again on the blockchain.
 
 ## How is Metis is decentralized?
 
-That you don't depend on any central server. Anyone can run their own node \(hardware where blockchain transactions are processed and a copy of the entire chain is stored, communicating with the rest of the nodes\) and even set up a home instance so that you talk to your own node, and communicate through it with any Metis user through the blockchain, without your messages leaving your private network at any time, leaving only an encrypted trace on a public blockchain. In the same way, it ensures that no government or company can simply shut down the application's servers, as any computer \(a Raspberry Pi, for example\) is a functional node with a copy of the blockchain.
+That you don't depend on any central server. Anyone can run their own node (hardware where blockchain transactions are processed and a copy of the entire chain is stored, communicating with the rest of the nodes) and even set up a home instance so that you talk to your own node, and communicate through it with any Metis user through the blockchain, without your messages leaving your private network at any time, leaving only an encrypted trace on a public blockchain. In the same way, it ensures that no government or company can simply shut down the application's servers, as any computer (a Raspberry Pi, for example) is a functional node with a copy of the blockchain.
 
 ## So, my messages are stored on a public network?
 
@@ -36,5 +36,4 @@ It does not connect in any way. Metis is only associated to your JUP account, th
 
 ## If you don't sell my data like other apps, how does Metis finance itself?
 
-You pay with money, as it should be. As we have said, each message is attached to a transaction in the Jupiter blockchain, to which is associated a commission paid in your currency. The commission is called “tx fee” and its amount can be altered; being in any case a very low amount -practically negligible, currently 1 JUP for 100k messages- and being able to currently open an account with a small charge of JUP to be able to use it without prior payment.Metis is different by design. Other services are centralized and rely on one company or one infrastructure system to work. Metis is and does not. A government or a company like Facebook can dig into the servers, where your information is either stored unencrypted or transported by an unencrypted mechanism through their server stack and then decrypted. Services like Signal, while open sourced, are 100% reliant on companies like Signal to fully work. You can't stand up your own Signal server and talk to 
-
+You pay with money, as it should be. As we have said, each message is attached to a transaction in the Jupiter blockchain, to which is associated a commission paid in your currency. The commission is called “tx fee” and its amount can be altered; being in any case a very low amount -practically negligible, currently 1 JUP for 100k messages- and being able to currently open an account with a small charge of JUP to be able to use it without prior payment.Metis is different by design. Other services are centralized and rely on one company or one infrastructure system to work. Metis is and does not. A government or a company like Facebook can dig into the servers, where your information is either stored unencrypted or transported by an unencrypted mechanism through their server stack and then decrypted. Services like Signal, while open sourced, are 100% reliant on companies like Signal to fully work. You can't stand up your own Signal server and talk to&#x20;
