@@ -4,37 +4,14 @@ description: https://github.com/jupiter-project/metis-api
 
 # metis-api
 
-{% swagger baseUrl="https://api.cakes.com" path="/v1/cakes/:id" method="get" summary="Get Cakes" %}
-{% swagger-description %}
-This endpoint allows you to get free cakes.
-{% endswagger-description %}
+Clone the `metis-api` repository
 
-{% swagger-parameter in="path" name="id" type="string" %}
-ID of the cake to get, for free of course.
-{% endswagger-parameter %}
+Setup .env file&#x20;
 
-{% swagger-parameter in="header" name="Authentication" type="string" %}
-Authentication token to track down who is emptying our stocks.
-{% endswagger-parameter %}
+Install docker-compose
 
-{% swagger-parameter in="query" name="recipe" type="string" %}
-The API will do its best to find a cake matching the provided recipe.
-{% endswagger-parameter %}
+`cd` into `metis-api` folder
 
-{% swagger-parameter in="query" name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.
-{% endswagger-parameter %}
+Type in `docker-compose up` to start the required Docker containers
 
-{% swagger-response status="200" description="Cake successfully retrieved." %}
-```
-{    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
-```
-{% endswagger-response %}
-
-{% swagger-response status="404" description="Could not find a cake matching this query." %}
-```
-{    "message": "Ain't no cake like that."}
-```
-{% endswagger-response %}
-{% endswagger %}
-
+For Swagger documentation, navigate to \[localhost/IP address]:4000/api-docs
