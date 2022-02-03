@@ -10,7 +10,7 @@ description: How to farm bwJUP/USDO on Binance Smart Chain
 2. Add bwJUP token - 0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7
 3. Add USDO token - 0x5801d0e1c7d977d78e4890880b8e579eb4943276
 
-![Note: If you have added certain tokens before and don’t see them in Metamask, simply go through the process of Importing Tokens and they will reappear.](<../.gitbook/assets/image (3).png>)
+![Note: If you have added certain tokens before and don’t see them in Metamask, simply go through the process of Importing Tokens and they will reappear.](<../../.gitbook/assets/image (3).png>)
 
 1. Click Import tokens at the bottom
 2. Input the token address from above
@@ -48,7 +48,7 @@ _**The coins you wish to withdraw MUST be in the Main Account. They cannot be in
 
 _Note: When you transfer $JUP to Metamask as BEP20(BSC) it is bwJUP. There is no conversion or steps to take. $JUP is bwJUP._
 
-![](<../.gitbook/assets/Screen Shot 2022-02-03 at 2.32.40 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-02-03 at 2.32.40 AM.png>)
 
 ### BNB to USDO conversion
 
@@ -59,7 +59,7 @@ _Note: When you transfer $JUP to Metamask as BEP20(BSC) it is bwJUP. There is no
 5. Click Review Swap
 6. Click Confirm
 
-![](<../.gitbook/assets/Screen Shot 2022-02-03 at 2.36.14 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-02-03 at 2.36.14 AM.png>)
 
 1. Go to PancakeSwap at - [https://t.co/1I8nc9EBwk](https://t.co/1I8nc9EBwk)
 2. Connect your MetaMask Wallet
@@ -75,7 +75,7 @@ _NOTE: If you click Max on the USDO box it will input the correct bwJUP to match
 4. A Metamask window will pup up – Click confirm
 5. You now have Cake-LP Tokens!!
 
-![Note: You will need to refresh the browser after clicking confirm to reset the cache on the page before you can try to create more Cake-LP tokens.](<../.gitbook/assets/image (1) (1).png>)
+![Note: You will need to refresh the browser after clicking confirm to reset the cache on the page before you can try to create more Cake-LP tokens.](<../../.gitbook/assets/image (1) (1).png>)
 
 ### Start farming!
 
@@ -100,4 +100,4 @@ Open Metamask and within a minute or so your Harvested bwJUP will show up in you
 
 _IMPORTANT: Once you have harvested some bwJUP you can top off your BNB and USDO and restake any bwJUP balance in your Metamask wallet by starting on the Add Liquidity – PancakeSwap page and following the instructions through to this page. Remember to refresh your browser after each time you add liquidity._
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2).png>)

@@ -9,7 +9,7 @@ description: How to farm bwJUP/BNB on Binance Smart Chain
 1. Open Metamask
 2. Add bwJUP token - 0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7
 
-![Note: If you have added certain tokens before and don’t see them in Metamask, simply go through the process of Importing Tokens and they will reappear.](<../.gitbook/assets/image (1).png>)
+![Note: If you have added certain tokens before and don’t see them in Metamask, simply go through the process of Importing Tokens and they will reappear.](<../../.gitbook/assets/image (1).png>)
 
 * Click Import tokens at the bottom
 * Input the token address from above
@@ -47,7 +47,7 @@ _**he coins you wish to withdraw MUST be in the Main Account. They cannot be in 
 
 _Note: When you transfer $JUP to Metamask as BEP20(BSC) it is bwJUP. There is no conversion or steps to take. $JUP is bwJUP._
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 ### Provide Liquidity to bwJUP/BNB pool
 
@@ -65,7 +65,7 @@ _NOTE: If you click Max on the BNB box it will input the correct bwJUP to match 
 4. A Metamask window will pup up – Click confirm
 5. You now have Cake-LP Tokens!!
 
-![Note: You will need to refresh the browser after clicking confirm to reset the cache on the page before you can try to create more Cake-LP tokens.](<../.gitbook/assets/Screen Shot 2022-02-03 at 11.15.32 AM.png>)
+![Note: You will need to refresh the browser after clicking confirm to reset the cache on the page before you can try to create more Cake-LP tokens.](<../../.gitbook/assets/Screen Shot 2022-02-03 at 11.15.32 AM.png>)
 
 ### Start Farming!
 
@@ -90,4 +90,4 @@ Open Metamask and within a minute or so your Harvested bwJUP will show up in you
 
 _IMPORTANT: Once you have harvested some bwJUP you can top off your BNB and BNB and restake any bwJUP balance in your Metamask wallet by starting on the Add Liquidity – PancakeSwap page and following the instructions through to this page. Remember to refresh your browser after each time you add liquidity._
 
-![](<../.gitbook/assets/Screen Shot 2022-02-03 at 11.21.34 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-02-03 at 11.21.34 AM.png>)
