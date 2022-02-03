@@ -2,6 +2,26 @@
 
 * [Welcome](README.md)
 
+## How to guides
+
+* [Install Jupiter](how-to-guides/install-jupiter/README.md)
+  * [Windows](how-to-guides/install-jupiter/windows.md)
+  * [Mac/Linux](how-to-guides/install-jupiter/mac-linux.md)
+* [Staking on Jupiter](how-to-guides/staking-on-jupiter/README.md)
+* [Farming](how-to-guides/farming/README.md)
+  * [Farming - bwJUP/BNB](how-to-guides/farming/farming-bwjup-bnb.md)
+  * [Farming - bwJUP/USDO](how-to-guides/farming/farming-bwjup-usdo.md)
+  * [Farming - JUP/ETH](how-to-guides/farming/farming-jup-eth.md)
+
+## FAQs
+
+* [Metis](faqs/metis/README.md)
+  * [Metis Container](faqs/metis/metis-container.md)
+* [Leda](faqs/leda.md)
+* [iO](faqs/io.md)
+* [Europa](faqs/europa.md)
+* [Callisto](faqs/callisto.md)
+
 ## Documentation
 
 * [Developer's Guide](documentation/untitled.md)
@@ -46,23 +66,3 @@
 * [Jupiter API](documentation/jupiter-api.md)
 * [metis-api](documentation/metis-api.md)
 * [jupiter-node-sdk](documentation/jupiter-node-sdk.md)
-
-## How to guides
-
-* [Install Jupiter](how-to-guides/install-jupiter/README.md)
-  * [Windows](how-to-guides/install-jupiter/windows.md)
-  * [Mac/Linux](how-to-guides/install-jupiter/mac-linux.md)
-* [Staking on Jupiter](how-to-guides/staking-on-jupiter/README.md)
-* [Farming](how-to-guides/farming/README.md)
-  * [Farming - bwJUP/BNB](how-to-guides/farming/farming-bwjup-bnb.md)
-  * [Farming - bwJUP/USDO](how-to-guides/farming/farming-bwjup-usdo.md)
-  * [Farming - JUP/ETH](how-to-guides/farming/farming-jup-eth.md)
-
-## FAQs
-
-* [Metis](faqs/metis/README.md)
-  * [Metis Container](faqs/metis/metis-container.md)
-* [Leda](faqs/leda.md)
-* [iO](faqs/io.md)
-* [Europa](faqs/europa.md)
-* [Callisto](faqs/callisto.md)
