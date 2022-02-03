@@ -14,7 +14,7 @@ description: Stake your JUP or bwJUP tokens on the Jupiter blockchain
 6. In a few minutes, you will have JUP in your Europa account. You can buy $FORGE in Europa or you can log into the wallet at [https://nodes.jup.io](https://nodes.jup.io) and complete the following task to obtain $FORGE to earn rewards.
 7. There is NO MEMO required for WITHDRAWS. You MUST add the memo to DEPOSIT from MAINNET to KuCoin!
 
-![](<../.gitbook/assets/Screen Shot 2022-01-24 at 8.44.08 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-01-24 at 8.44.08 AM.png>)
 
 ### Buy $FORGE on Jupiter
 
@@ -27,6 +27,6 @@ description: Stake your JUP or bwJUP tokens on the Jupiter blockchain
 7. Enter your passphrase. Click 'OK'. In 30 seconds you will have $FORGE in your wallet and every hour you will collect rewards.
 8. $FORGE is always pegged 1:1 JUP:FORGE. NEVER sell your FORGE for less than 1 JUP! You simply put your sell order and the market bot will come buy it. The bot sweeps all sells at 1 JUP every 10-15 minutes.
 
-![Asset Exchange](<../.gitbook/assets/Screen Shot 2021-11-12 at 10.58.13 PM.png>)
+![Asset Exchange](<../../.gitbook/assets/Screen Shot 2021-11-12 at 10.58.13 PM.png>)
 
-![$FORGE purchase setup](<../.gitbook/assets/Screen Shot 2021-11-12 at 11.00.11 PM.png>)
+![$FORGE purchase setup](<../../.gitbook/assets/Screen Shot 2021-11-12 at 11.00.11 PM.png>)
