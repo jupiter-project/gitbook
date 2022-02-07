@@ -61,7 +61,7 @@ _Note: When you transfer $JUP to Metamask as BEP20(BSC) it is bwJUP. There is no
 
 ![](<../../.gitbook/assets/Screen Shot 2022-02-03 at 2.36.14 AM.png>)
 
-1. Go to PancakeSwap at - [https://t.co/1I8nc9EBwk](https://t.co/1I8nc9EBwk)
+1. Go to PancakeSwap at - [https://pancakeswap.finance/add/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7/0x5801D0e1C7D977D78E4890880B8E579eb4943276](https://pancakeswap.finance/add/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7/0x5801D0e1C7D977D78E4890880B8E579eb4943276)
 2. Connect your MetaMask Wallet
 3. You should see your bwJUP balance at the top right for the first Gray box
 4. Click Max or type an amount in the gray box
