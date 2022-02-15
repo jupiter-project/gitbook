@@ -4,6 +4,10 @@ description: How to recover your Metis alias and use in a new account!
 
 # Reuse old alias in Metis
 
+Thank you to our longtime friend and community member **LetsTryThis** for the guide below!
+
+
+
 The core of Metis 1.4 has changed substantially. Therefore, old Metis accounts can’t be used anymore. Aliases are unique and thus you can’t directly create a new account with your old alias. However, there is a solution. This removes the alias from the old account, but as that account can’t be used in Metis anymore it is not a problem, and makes it available for your new account. Note: after removing the alias this alias is available for EVERYONE, so be sure to directly register your new account afterwards so no-one else can claim it. Also, perform this procedure only with aliases you have used before in Metis yourself! Not with aliases some people might offer for sale, as that is untested territory.
 
 In this tutorial I will use my old alias Screenshot.
