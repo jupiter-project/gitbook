@@ -16,6 +16,7 @@
 ## FAQs
 
 * [Metis](faqs/metis/README.md)
+  * [Reuse old alias in Metis](faqs/metis/reuse-old-alias-in-metis.md)
   * [Metis Container](faqs/metis/metis-container.md)
 * [Leda](faqs/leda.md)
 * [iO](faqs/io.md)
