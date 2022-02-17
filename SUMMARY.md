@@ -16,10 +16,11 @@
 ## FAQs
 
 * [Metis](faqs/metis/README.md)
-  * [Reuse old alias in Metis](faqs/metis/reuse-old-alias-in-metis.md)
-  * [Metis Container](faqs/metis/metis-container/README.md)
+  * [Configuration](faqs/metis/configuration.md)
+  * [Metis Container](faqs/metis/metis-container.md)
     * [Setup](faqs/metis/metis-container/setup.md)
     * [Install Jitsi](faqs/metis/metis-container/install-jitsi.md)
+  * [Reuse old alias in Metis](faqs/metis/reuse-old-alias-in-metis.md)
 * [Leda](faqs/leda.md)
 * [iO](faqs/io.md)
 * [Europa](faqs/europa.md)

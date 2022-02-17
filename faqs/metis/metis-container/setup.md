@@ -10,7 +10,7 @@ description: How to setup your Metis Container
 
 2\.     Find the container's IP address by looking at your router’s information page or by using a network scanner
 
-3\.     SSH to the device by using Putty (Windows) or Terminal (MacOS/Linux) by using the username \`ubuntu\` and the password \`ubuntu\`
+3\.     SSH to the device by using Putty (Windows) or Terminal (MacOS/Linux) by using the username \``ubuntu`\` and the password \``ubuntu`\`
 
 4\.     If you want Jupiter and Metis installed via script, copy and paste this into your terminal window:
 
@@ -32,7 +32,7 @@ _Note: If you want to manually install the applications and setups, please proce
 
 ### Configure Metis
 
-2\.     Follow the install guide located at \[link]
+2\.     Follow the install guide located here: [configuration.md](../configuration.md "mention")
 
 ### Swap size (4GB version)
 
