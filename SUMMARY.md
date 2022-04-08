@@ -7,7 +7,7 @@
 * [Install Jupiter](how-to-guides/install-jupiter/README.md)
   * [Windows](how-to-guides/install-jupiter/windows.md)
   * [Mac/Linux](how-to-guides/install-jupiter/mac-linux.md)
-* [Staking on Jupiter](how-to-guides/staking-on-jupiter/README.md)
+* [Staking with Jupiter](how-to-guides/staking-with-jupiter.md)
 * [Farming](how-to-guides/farming/README.md)
   * [Farming - bwJUP/BNB](how-to-guides/farming/farming-bwjup-bnb.md)
   * [Farming - bwJUP/USDO](how-to-guides/farming/farming-bwjup-usdo.md)
