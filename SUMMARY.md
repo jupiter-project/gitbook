@@ -73,4 +73,4 @@
 
 ## Jupiter 3.0
 
-* [Home to the New Jupiter v3.0](jupiter-3.0/home-to-the-new-jupiter-v3.0.md)
+* [Home to Jupiter v3.0](jupiter-3.0/home-to-jupiter-v3.0.md)

@@ -112,7 +112,7 @@ o   Jitsi Meet mobile apps _require_ a valid certificate signed by a trusted [Ce
 
 ### Install Jitsi Meet
 
-_Note_: The installer will check if [Nginx](https://nginx.org) or [Apache](https://httpd.apache.org) are present (in that order) and configure a virtual host within the web server it finds to serve Jitsi Meet.
+_Note_: The installer will check if [Nginx](https://nginx.org/) or [Apache](https://httpd.apache.org/) are present (in that order) and configure a virtual host within the web server it finds to serve Jitsi Meet.
 
 If you are already running Nginx on port 443 on the same machine, turnserver configuration will be skipped as it will conflict with your current port 443.
 
@@ -136,7 +136,7 @@ In order to have encrypted communications, you need a [TLS certificate](https://
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-02-16 at 9.25.29 PM.png>)
 
-The best method is to create a certificate that is signed by a [Certificate Authority](https://en.wikipedia.org/wiki/Certificate\_authority). This way you can avoid problems with a self-signed certificate (see [above](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart#tls-certificate) for details). The easiest way is to use [Let's Encrypt](https://letsencrypt.org). This certificate will also help you setup your Jupiter node for access outside, if you choose.
+The best method is to create a certificate that is signed by a [Certificate Authority](https://en.wikipedia.org/wiki/Certificate\_authority). This way you can avoid problems with a self-signed certificate (see [above](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart#tls-certificate) for details). The easiest way is to use [Let's Encrypt](https://letsencrypt.org/). This certificate will also help you setup your Jupiter node for access outside, if you choose.
 
 Simply run the following in your shell:
 
