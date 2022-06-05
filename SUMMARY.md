@@ -70,3 +70,7 @@
 * [Jupiter API](documentation/jupiter-api.md)
 * [metis-api](documentation/metis-api.md)
 * [jupiter-node-sdk](documentation/jupiter-node-sdk.md)
+
+## Jupiter 3.0
+
+* [Home to the New Jupiter v3.0](jupiter-3.0/home-to-the-new-jupiter-v3.0.md)
