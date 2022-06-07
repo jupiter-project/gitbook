@@ -74,3 +74,4 @@
 ## Jupiter 3.0
 
 * [Home to Jupiter v3.0](jupiter-3.0/home-to-jupiter-v3.0.md)
+* [Validator Guide](jupiter-3.0/validator-guide.md)
