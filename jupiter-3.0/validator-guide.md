@@ -85,7 +85,11 @@ Let it run until you see output that blocks are being executed & committed. Then
 
 **Warning: This command can be dangerous if not copied correctly!**
 
-`rm -rf -v ~/.ethermintd/data !("priv_validator_state.json")`
+`cd ~/.ethermintd/data/`
+
+`rm -rf application.db blockstore.db cs.wal evidence.db snapshots state.db tx_index.db`
+
+`cd ~/callisto`
 
 ### Add a good seed to `seeds=` or `persistent_peers=` in \~/.ethermintd/config/config.toml:
 
