@@ -59,13 +59,9 @@ For a more verbose set of instructions use [Digital Ocean's guide](https://www.d
 
 ### Clone the Callisto repository
 
-`git clone https://github.com/sigwo/callisto.git`
+`git clone https://github.com/jupiter-project/jupiter-ng.git`
 
-### Switch to dev branch (may not be needed soon)
-
-`cd callisto`
-
-`git checkout dev`
+`cd jupiter-ng`
 
 ### Move jupiterd binary:
 
@@ -79,7 +75,7 @@ Let it run until you see output that blocks are being executed & committed. Then
 
 ### Move Genesis:
 
-`cp ./testnet-genesis.json ~/.ethermintd/config/genesis.json`
+`cp ./genesis.json ~/.ethermintd/config/genesis.json`
 
 ### Delete Chain Data from Init:
 
@@ -89,7 +85,7 @@ Let it run until you see output that blocks are being executed & committed. Then
 
 `rm -rf application.db blockstore.db cs.wal evidence.db snapshots state.db tx_index.db`
 
-`cd ~/callisto`
+`cd ~/jupiter-ng`
 
 ### Add a good seed to `seeds=` or `persistent_peers=` in \~/.ethermintd/config/config.toml:
 
