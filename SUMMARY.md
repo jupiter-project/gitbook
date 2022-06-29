@@ -4,14 +4,29 @@
 
 ## How to guides
 
-* [Install Jupiter](how-to-guides/install-jupiter/README.md)
-  * [Windows](how-to-guides/install-jupiter/windows.md)
-  * [Mac/Linux](how-to-guides/install-jupiter/mac-linux.md)
-* [Staking with Jupiter](how-to-guides/staking-with-jupiter.md)
 * [Farming](how-to-guides/farming/README.md)
   * [Farming - bwJUP/BNB](how-to-guides/farming/farming-bwjup-bnb.md)
   * [Farming - bwJUP/USDO](how-to-guides/farming/farming-bwjup-usdo.md)
   * [Farming - JUP/ETH](how-to-guides/farming/farming-jup-eth.md)
+
+## Jupiter 3.0
+
+* [Home to Jupiter v3.0](jupiter-3.0/home-to-jupiter-v3.0.md)
+* [Validator Guide](jupiter-3.0/validator-guide.md)
+
+## community
+
+* [Newsletters](community/newsletters/README.md)
+  * [Week 27](community/newsletters/week-27.md)
+* [Socials](community/socials/README.md)
+  * [Get Metis](community/socials/get-metis.md)
+  * [Twitter](community/socials/twitter.md)
+  * [Discord](community/socials/discord.md)
+  * [Telegram](community/socials/telegram.md)
+  * [Instagram](community/socials/instagram.md)
+  * [YouTube](community/socials/youtube.md)
+  * [Facebook](community/socials/facebook.md)
+  * [Reddit](community/socials/reddit.md)
 
 ## FAQs
 
@@ -21,13 +36,18 @@
     * [Setup](faqs/metis/metis-container/setup.md)
     * [Install Jitsi](faqs/metis/metis-container/install-jitsi.md)
   * [Reuse old alias in Metis](faqs/metis/reuse-old-alias-in-metis.md)
+  * [metis-api](faqs/metis/metis-api.md)
 * [Leda](faqs/leda.md)
 * [iO](faqs/io.md)
 * [Europa](faqs/europa.md)
 * [Callisto](faqs/callisto.md)
 
-## Documentation
+## Documentation - Archive <a href="#documentation" id="documentation"></a>
 
+* [Install Jupiter](documentation/install-jupiter/README.md)
+  * [Windows](documentation/install-jupiter/windows.md)
+  * [Mac/Linux](documentation/install-jupiter/mac-linux.md)
+* [Staking with Jupiter](documentation/staking-with-jupiter.md)
 * [Developer's Guide](documentation/untitled.md)
 * [Jupiter Reference Software](documentation/jupiter-reference-software/README.md)
   * [Overview](documentation/jupiter-reference-software/overview.md)
@@ -68,10 +88,3 @@
       * [nxt.util](documentation/jupiter-reference-software/nxt/util/nxt.util.md)
     * [nxt Class Hierarchy](documentation/jupiter-reference-software/nxt/nxt-class-hierarchy.md)
 * [Jupiter API](documentation/jupiter-api.md)
-* [metis-api](documentation/metis-api.md)
-* [jupiter-node-sdk](documentation/jupiter-node-sdk.md)
-
-## Jupiter 3.0
-
-* [Home to Jupiter v3.0](jupiter-3.0/home-to-jupiter-v3.0.md)
-* [Validator Guide](jupiter-3.0/validator-guide.md)

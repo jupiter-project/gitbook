@@ -28,7 +28,7 @@ _Note: If you want to manually install the applications and setups, please proce
 
 ### Install Jupiter
 
-1\.     The Jupiter install guide is located here:  [install-jupiter](../../../how-to-guides/install-jupiter/ "mention")
+1\.     The Jupiter install guide is located here:  [install-jupiter](../../../documentation/install-jupiter/ "mention")
 
 ### Configure Metis
 
