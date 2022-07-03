@@ -66,7 +66,7 @@ _NOTE: If you click Max on the ETH box it will input the correct JUP to match th
 
 ### Start Farming!
 
-1. Go to Unicrypt at - [https://farm.unicrypt.network/farms?token=0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8](https://farm.unicrypt.network/farms?token=0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8)
+1. Go to OKLG at - [https://app.oklg.io/#/faas/](https://app.oklg.io/#/faas/)
 2. Connect your MetaMask Wallet – Top Right
 3. Your Uni-V2 LP tokens should show as the “LP tokens in wallet”
 4. Click Stake
@@ -88,5 +88,3 @@ Click confirm and refresh the browser
 Open Metamask and within a minute or so your harvested JUP will show up in your balance on Metamask
 
 _IMPORTANT: Once you have harvested some JUP you can top off your ETH and ETH and restake any JUP balance in your Metamask wallet by starting on the Add Liquidity – Uniswap page and following the instructions through to this page. Remember to refresh your browser after each time you add liquidity._
-
-![Unicrypt farm steps](<../../.gitbook/assets/Screen Shot 2022-02-03 at 12.06.24 PM.png>)

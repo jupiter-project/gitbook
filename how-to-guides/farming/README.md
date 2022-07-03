@@ -6,6 +6,6 @@ description: Ways to farm Jupiter tokens
 
 [farming-bwjup-bnb.md](farming-bwjup-bnb.md "mention")
 
-[farming-bwjup-usdo.md](farming-bwjup-usdo.md "mention")
+[Broken link](broken-reference "mention")
 
 [farming-jup-eth.md](farming-jup-eth.md "mention")

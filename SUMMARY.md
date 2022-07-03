@@ -6,8 +6,8 @@
 
 * [Farming](how-to-guides/farming/README.md)
   * [Farming - bwJUP/BNB](how-to-guides/farming/farming-bwjup-bnb.md)
-  * [Farming - bwJUP/USDO](how-to-guides/farming/farming-bwjup-usdo.md)
   * [Farming - JUP/ETH](how-to-guides/farming/farming-jup-eth.md)
+  * [Farming - Single Staking](how-to-guides/farming/farming-single-staking.md)
 
 ## Jupiter 3.0
 

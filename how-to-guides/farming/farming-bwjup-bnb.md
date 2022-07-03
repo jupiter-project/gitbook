@@ -69,7 +69,7 @@ _NOTE: If you click Max on the BNB box it will input the correct bwJUP to match 
 
 ### Start Farming!
 
-1. Go to OCP at - [https://app.ocp.finance/#/farms/farm-details/0x961f44e8A25a3F2eb66701aeAc73F574F0D46ec8](https://app.ocp.finance/#/farms/farm-details/0x961f44e8A25a3F2eb66701aeAc73F574F0D46ec8)
+1. Go to OKLG at - [https://app.oklg.io/#/faas/](https://app.oklg.io/#/faas/)
 2. Connect your MetaMask Wallet – Top Right
 3. Your Cake-LP tokens should show as the “LP tokens in wallet”
 4. Click Max&#x20;
@@ -84,10 +84,8 @@ Click Harvest whenever you wish
 
 When you do this a Metamask window will pop up
 
-Click confirm and refresh the OCP browser
+Click confirm and refresh the OKLG browser
 
 Open Metamask and within a minute or so your Harvested bwJUP will show up in your balance on Metamask
 
 _IMPORTANT: Once you have harvested some bwJUP you can top off your BNB and BNB and restake any bwJUP balance in your Metamask wallet by starting on the Add Liquidity – PancakeSwap page and following the instructions through to this page. Remember to refresh your browser after each time you add liquidity._
-
-![](<../../.gitbook/assets/Screen Shot 2022-02-03 at 11.21.34 AM.png>)
