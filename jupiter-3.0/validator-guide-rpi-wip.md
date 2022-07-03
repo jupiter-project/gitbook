@@ -5,7 +5,7 @@ description: >-
   Lack of knowledge could lead to loss of funds!
 ---
 
-# Validator Guide - RPi
+# Validator Guide - RPi (WIP)
 
 ## Intro
 
