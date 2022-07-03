@@ -5,7 +5,7 @@ description: >-
   Lack of knowledge could lead to loss of funds!
 ---
 
-# Validator Guide
+# Validator Guide - RPi
 
 ## Intro
 
@@ -13,39 +13,15 @@ These instructions were written for the Jupiter Testnet (NOT MAINNET) during ini
 
 ## Running a Validator
 
-### Add swap
-
-For a more verbose set of instructions use [Digital Ocean's guide](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-22-04) (the original source of these commands).
-
-> **NOTE: 2 GB may not be adequate, read about calculating the proper swap space**
-
-`df -h`
-
-`sudo fallocate -l 2G /swapfile`
-
-`ls -lh /swapfile`
-
-`sudo chmod 600 /swapfile`
-
-`ls -lh /swapfile`
-
-`sudo mkswap /swapfile`
-
-`sudo swapon /swapfile`
-
-`sudo swapon --show`
-
-`free -h`
-
-`sudo cp /etc/fstab /etc/fstab.bak`
-
-`echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab`
+Raspberry Pi v4 have a minimum of 4GB, so swap space is not necessary.
 
 ### Install Go
 
-`wget https://go.dev/dl/go1.18.3.linux-amd64.tar.gz`
+`wget https://go.dev/dl/go1.18.3.linux-armv64.tar.gz`
 
-`rm -rf /usr/local/go && tar -C /usr/local -xzf go1.18.3.linux-amd64.tar.gz`
+`sudo su`
+
+`rm -rf /usr/local/go && tar -C /usr/local -xzf go1.18.3.linux-armv64.tar.gz`
 
 `export PATH=$PATH:/usr/local/go/bin`
 
@@ -57,7 +33,7 @@ For a more verbose set of instructions use [Digital Ocean's guide](https://www.d
 
 `sudo apt install jq`
 
-### Clone the Callisto repository
+### Clone the Jupiter repository
 
 `git clone https://github.com/jupiter-project/jupiter-ng.git`
 

@@ -12,7 +12,8 @@
 ## Jupiter 3.0
 
 * [Home to Jupiter v3.0](jupiter-3.0/home-to-jupiter-v3.0.md)
-* [Validator Guide](jupiter-3.0/validator-guide.md)
+* [Validator Guide - Linux](jupiter-3.0/validator-guide-linux.md)
+* [Validator Guide - RPi](jupiter-3.0/validator-guide-rpi.md)
 
 ## community
 
