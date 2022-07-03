@@ -47,7 +47,7 @@ _**he coins you wish to withdraw MUST be in the Main Account. They cannot be in 
 
 _Note: When you transfer $JUP to Metamask as BEP20(BSC) it is bwJUP. There is no conversion or steps to take. $JUP is bwJUP._
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 ### Provide Liquidity to bwJUP/BNB pool
 
