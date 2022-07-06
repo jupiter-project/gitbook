@@ -79,7 +79,7 @@ Let it run until you see output that blocks are being executed & committed. Then
 
 ### Move Genesis:
 
-`cp ./genesis.json ~/.ethermintd/config/genesis.json`
+`cp ./testnet-genesis.json ~/.ethermintd/config/genesis.json`
 
 ### Delete Chain Data from Init:
 
