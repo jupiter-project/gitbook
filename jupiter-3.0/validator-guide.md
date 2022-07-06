@@ -65,6 +65,8 @@ For a more verbose set of instructions use [Digital Ocean's guide](https://www.d
 
 `cd jupiter-ng`
 
+`git checkout dev`
+
 ### Move jupiterd binary:
 
 `sudo mv ./jupiterd /usr/local/bin`
