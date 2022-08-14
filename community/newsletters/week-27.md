@@ -8,7 +8,7 @@ Hello to our first edition of Jupiter Project newsletter! This week we worked on
 
 * Metis fee structure bug
 * KuCoin migration plan
-* Jupiter v3.0 [validator](../../jupiter-3.0/validator-guide.md) and installation guides
+* Jupiter v3.0 [validator](../../jupiter-3.0/testnet-validator-guide-linux.md) and installation guides
   * Installation validation started on Raspberry Pi ([Metis Container](https://sigwo.com/products/metis-container/))
 * Partner project development&#x20;
 * Updated [farm](../../how-to-guides/farming/) guides
