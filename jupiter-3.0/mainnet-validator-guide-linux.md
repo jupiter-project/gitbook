@@ -65,19 +65,17 @@ For a more verbose set of instructions use [Digital Ocean's guide](https://www.d
 
 `cd jupiter-ng`
 
-`git checkout dev`
-
 ### Move jupiterd binary:
 
 `sudo mv ./jupiterd /usr/local/bin`
 
 ### Run initializer:
 
-`./testnet-init.sh`
+`./init.sh`
 
 Let it run until you see output that blocks are being executed & committed. Then kill it with `CTRL + C`
 
-### Move Genesis:
+### Replace `init` Genesis:
 
 `cp ./genesis.json ~/.ethermintd/config/genesis.json`
 
@@ -100,7 +98,7 @@ seeds = ""
 
 # Comma separated list of nodes to keep persistent connections to
 
-persistent_peers = "ab36dc7a7d916370e16895e10b9249754d4f5708@104.131.166.158:26656"
+persistent_peers = "177d387020489df9fdcc383786e898e33e2d823d@143.198.109.3:26656"
 ```
 
 ### Fire up the box
