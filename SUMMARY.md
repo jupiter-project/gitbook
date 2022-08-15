@@ -12,6 +12,7 @@
 ## Jupiter 3.0
 
 * [Home to Jupiter v3.0](jupiter-3.0/home-to-jupiter-v3.0.md)
+* [Account Basics](jupiter-3.0/account-basics.md)
 * [Mainnet Validator Guide - Linux](jupiter-3.0/mainnet-validator-guide-linux.md)
 * [Testnet Validator Guide - Linux](jupiter-3.0/testnet-validator-guide-linux.md)
 * [Validator Guide - RPi (WIP)](jupiter-3.0/validator-guide-rpi-wip.md)
