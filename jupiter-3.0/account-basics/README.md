@@ -10,7 +10,7 @@ To create the initial keychain `jupiterd keys add [name]`
 
 To view created recipient address `jupiterd keys list`
 
-To view the node validator address `jupiterd keys show --bech=val`
+To view the node validator address `jupiterd keys [keyname] show --bech=val`
 
 To send JUP `jupiterd tx bank send [sender] [recipient] 1000000000ajup --fees 1000ajup`
 
