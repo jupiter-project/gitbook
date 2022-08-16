@@ -8,7 +8,7 @@ This is a quick guide to creating your Jupiter v3 wallet and addresses.&#x20;
 
 To create the initial keychain `jupiterd keys add [name]`
 
-To view created recipient address `jupiterd keys show-list`
+To view created recipient address `jupiterd keys list`
 
 To view the node validator address `jupiterd keys show --bech=val`
 
