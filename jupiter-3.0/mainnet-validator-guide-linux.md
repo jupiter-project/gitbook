@@ -98,7 +98,7 @@ seeds = ""
 
 # Comma separated list of nodes to keep persistent connections to
 
-persistent_peers = "177d387020489df9fdcc383786e898e33e2d823d@143.198.109.3:26656"
+persistent_peers = "0ab3cf58979f72af0882ed52a9355b78f5e1eefc@143.198.109.3:26656"
 ```
 
 ### Fire up the box
